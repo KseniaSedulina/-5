@@ -1,0 +1,15 @@
+C:\Users\panvi\Documents\Разработчик\Знакомство с языками программирования\Семинары\Семинар 5\bin\Debug\net6.0\Семинар 5.exe
+C:\Users\panvi\Documents\Разработчик\Знакомство с языками программирования\Семинары\Семинар 5\bin\Debug\net6.0\Семинар 5.deps.json
+C:\Users\panvi\Documents\Разработчик\Знакомство с языками программирования\Семинары\Семинар 5\bin\Debug\net6.0\Семинар 5.runtimeconfig.json
+C:\Users\panvi\Documents\Разработчик\Знакомство с языками программирования\Семинары\Семинар 5\bin\Debug\net6.0\Семинар 5.dll
+C:\Users\panvi\Documents\Разработчик\Знакомство с языками программирования\Семинары\Семинар 5\bin\Debug\net6.0\Семинар 5.pdb
+C:\Users\panvi\Documents\Разработчик\Знакомство с языками программирования\Семинары\Семинар 5\obj\Debug\net6.0\Семинар 5.csproj.AssemblyReference.cache
+C:\Users\panvi\Documents\Разработчик\Знакомство с языками программирования\Семинары\Семинар 5\obj\Debug\net6.0\Семинар 5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\panvi\Documents\Разработчик\Знакомство с языками программирования\Семинары\Семинар 5\obj\Debug\net6.0\Семинар 5.AssemblyInfoInputs.cache
+C:\Users\panvi\Documents\Разработчик\Знакомство с языками программирования\Семинары\Семинар 5\obj\Debug\net6.0\Семинар 5.AssemblyInfo.cs
+C:\Users\panvi\Documents\Разработчик\Знакомство с языками программирования\Семинары\Семинар 5\obj\Debug\net6.0\Семинар 5.csproj.CoreCompileInputs.cache
+C:\Users\panvi\Documents\Разработчик\Знакомство с языками программирования\Семинары\Семинар 5\obj\Debug\net6.0\Семинар 5.dll
+C:\Users\panvi\Documents\Разработчик\Знакомство с языками программирования\Семинары\Семинар 5\obj\Debug\net6.0\refint\Семинар 5.dll
+C:\Users\panvi\Documents\Разработчик\Знакомство с языками программирования\Семинары\Семинар 5\obj\Debug\net6.0\Семинар 5.pdb
+C:\Users\panvi\Documents\Разработчик\Знакомство с языками программирования\Семинары\Семинар 5\obj\Debug\net6.0\Семинар 5.genruntimeconfig.cache
+C:\Users\panvi\Documents\Разработчик\Знакомство с языками программирования\Семинары\Семинар 5\obj\Debug\net6.0\ref\Семинар 5.dll
